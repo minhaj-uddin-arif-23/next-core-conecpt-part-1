@@ -1,6 +1,7 @@
 // import { Roboto } from 'next/font/google'
 import { Open_Sans } from 'next/font/google'
 import "./globals.css";
+import Footer from '@/components/shared/Footer';
 
 
 // const roboto = Roboto({
@@ -24,10 +25,11 @@ export default function RootLayout({ children }) {
       <body
         className={open_sans.className}
       >
-       <div className="w-full">
       
-       </div>
-        <div className="max-w-7xl mx-auto mt-4">{children}</div>
+      
+      
+        <div className="min-h-screen">{children}</div>
+        <Footer />
       </body>
     </html>
   );

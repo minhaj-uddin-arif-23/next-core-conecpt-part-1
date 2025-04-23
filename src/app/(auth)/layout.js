@@ -4,7 +4,7 @@ import React from 'react'
 export default function AuthLayout({children}) {
   return (
     <div>
-      <div>
+      <div className='mt-24 text-center items-center'>
       {children}
       </div>
     <div className='w-full'>

@@ -4,8 +4,12 @@ import React from 'react'
 export default function CommonLayout({children}) {
   return (
     <div>
-       <Navbar />
-      {children}
+      <div className="">
+      <Navbar />
+      </div>
+     <div className='max-w-7xl  mx-auto'>
+     {children}
+     </div>
     </div>
   )
 }
