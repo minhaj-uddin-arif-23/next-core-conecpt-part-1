@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pendrive",
+      "price": 59.99,
+      "description": "32GB  pendrive.",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 1200,
+      "description": "Tracks your fitness activities and monitors heart rate.",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Portable Charger 10000mAh",
+      "price": 3000,
+      "description": "Compact and lightweight design with fast charging capability.",
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Smart TV Wireless conncetion",
+      "price": 499.99,
+      "description": "Stunning picture quality with smart functionality.",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "P550E",
+      "price": 5000,
+      "description": "High-performance laptop designed for gaming enthusiasts.",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Pendrive",
+      "price": 59.99,
+      "description": "32GB  pendrive.",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch",
+      "price": 1200,
+      "description": "Tracks your fitness activities and monitors heart rate.",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Portable Charger 10000mAh",
+      "price": 3000,
+      "description": "Compact and lightweight design with fast charging capability.",
+      "inStock": false
+    },
+    {
+      "id": 9,
+      "name": "4K Ultra HD Smart TV Wireless conncetion",
+      "price": 499.99,
+      "description": "Stunning picture quality with smart functionality.",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "P550E",
+      "price": 5000,
+      "description": "High-performance laptop designed for gaming enthusiasts.",
+      "inStock": true
+    }
+  ]
+}
